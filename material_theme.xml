@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactSidebar" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="customSidebarHeight" value="20" />
+    <option name="settingsSelectedTab" value="3" />
+    <option name="tabsHeight" value="40" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-de75d5:16888925a64:-8000" />
+    <option name="version" value="3.5.0" />
+  </component>
+</application>
